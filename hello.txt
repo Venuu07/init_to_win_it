@@ -1,2 +1,10 @@
 no more timings are there
+<<<<<<< HEAD
 nothing please
+=======
+nothing please
+jklfjdsl
+
+koushik    
+ kjjlk
+>>>>>>> test
